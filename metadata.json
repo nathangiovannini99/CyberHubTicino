@@ -1,0 +1,6 @@
+{
+  "name": "CyberHelp Ticino",
+  "description": "Digital support and community portal for cyberbullying prevention in Ticino.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
